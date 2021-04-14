@@ -1,5 +1,5 @@
 {
-	"name": "Azure Void v1",
+	"name": "Azure Void",
 	"type": "dark",
 	"semanticHighlighting": true,
   "semanticTokenColors": {
@@ -545,7 +545,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#a2ff95d5"
+        "foreground": "#007acc"
       }
     },
     {
@@ -1849,8 +1849,8 @@
     "focusBorder": "#007fd4",
     "selection.background": "#256aa7",
     "scrollbar.shadow": "#000000",
-    "activityBar.foreground": "#ffffff",
-    "activityBar.background": "#023E8A",
+    "activityBar.foreground": "#48CAE4",
+    "activityBar.background": "#000815",
     "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#007acc",
@@ -1876,11 +1876,11 @@
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#be1100",
     "statusBar.foreground": "#ffffff",
-    "statusBar.background": "#007acc",
+    "statusBar.background": "#68217a",
     "statusBarItem.hoverBackground": "#ffffff1f",
     "statusBar.debuggingBackground": "#cc6633",
     "statusBar.debuggingForeground": "#ffffff",
-    "statusBar.noFolderBackground": "#68217a",
+    "statusBar.noFolderBackground": "#007acc",
     "statusBar.noFolderForeground": "#ffffff",
     "statusBarItem.remoteBackground": "#000308",
     "statusBarItem.remoteForeground": "#ffffff",
@@ -2000,7 +2000,7 @@
     "tab.border": "#00000000",
     "tab.activeBackground": "#00112a",
     "tab.activeBorder": "#00000000",
-    "tab.activeBorderTop": "#00000000",
+    "tab.activeBorderTop": "#48CAE4",
     "tab.inactiveBackground": "#000815",
     "tab.inactiveForeground": "#ffffff80",
     "scrollbarSlider.background": "#00060f",
